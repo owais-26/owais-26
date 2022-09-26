@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hi 👋, I'm Owais Ansari</i></h1>
+<h1 align="center"><b>Hi 👋, I'm Owais Ansari</b></h1>
 <h3 align="center">NED'25 || Undergraduate BS-CSIT || Front End Developer || Enthusiast Teacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais-26&label=Profile%20views&color=0e75b6&style=flat" alt="owais-26" /> </p>
