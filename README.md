@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Owais Ansari</h1>
-<h3 align="center">A passionate Computer Science Student at NED University.</h3>
+<h1 align="center"><i>Hi 👋, I'm Owais Ansari</i></h1>
+<h3 align="center">NED'25 || Undergraduate BS-CSIT || Front End Developer || Enthusiast Teacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais-26&label=Profile%20views&color=0e75b6&style=flat" alt="owais-26" /> </p>
 
@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **YouTube**
 
-- 💬 Ask me about **Python, C++.**
+- 💬 Ask me about **Progarmming, Web Development**
 
-- 📫 How to reach me **owais.ansaricr7@gmail.com**
+- 📫 How to reach me **https://owais-portfolio.netlify.app/**
 
-- ⚡ Fun fact **I think I Can Do WONDERS.**
+- ⚡ Fun fact **I'm an ALL-ROUNDER.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
