@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi 👋, I'm Owais Ansari</b></h1>
-<h3 align="center">NED'25 || Undergraduate BS-CSIT || Front End Developer || Enthusiast Teacher</h3>
+<h3 align="center">NED'25 | Upwork | Undergraduate BS-CSIT | Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais-26&label=Profile%20views&color=0e75b6&style=flat" alt="owais-26" /> </p>
 
@@ -7,19 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/oansaricr7" target="blank"><img src="https://img.shields.io/twitter/follow/oansaricr7?logo=twitter&style=for-the-badge" alt="oansaricr7" /></a> </p>
 
-- 🔭 I’m currently working on **Web Designing.**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Python, C++, HTML, CSS, JavaScript.**
-
-- 👯 I’m looking to collaborate on **Different Beginner Projects.**
-
-- 🤝 I’m looking for help with **YouTube**
+- 🌱 I’m currently learning **React JS.**
 
 - 💬 Ask me about **Progarmming, Web Development**
 
 - 📫 How to reach me **https://owais-portfolio.netlify.app/**
 
-- ⚡ Fun fact **I'm an ALL-ROUNDER.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
