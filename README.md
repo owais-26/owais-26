@@ -29,6 +29,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/vercel/next.js/master/.github/images/nextjs.png" alt="Next.js" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40" style="max-width: 100%;">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
   <img alt="Node.js" width="40" height="40" src="https://camo.githubusercontent.com/9941858e5b79079c0f5d8aa6063ac08d19e971ea210508af614e3e28828c673f/68747470733a2f2f7777772e706e6766696e642e636f6d2f706e67732f6d2f3133362d313336333733365f657870726573732d6a732d69636f6e2d706e672d7472616e73706172656e742d706e672e706e67" data-canonical-src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" style="max-width: 100%;">
   </a>
