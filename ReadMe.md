@@ -2,7 +2,7 @@
 
 ></a>
 
-# 💫 About Me:
+# 💫 About Me
 - 💡 Quick learner and critical thinker.<br>- 🚀 Proven track record in web development.<br>- 🤝 Strong communicator and team player.<br>- ⏱ Efficient time management skills.
 
 
