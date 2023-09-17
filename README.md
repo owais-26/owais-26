@@ -1,9 +1,4 @@
-<style>
-  body {
-    background-color: black;
-    color: white;
-  }
-</style>
+
 <h1 align="center"> Hi, I'm Owais - Full Stack Web Developer<br> <img align='right' src='https://programming-gifs.cyclic.app/' width=500 height=300 alt='samadpls/Programming-Gifs'></h1>
 
 ></a>
