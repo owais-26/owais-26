@@ -1,3 +1,7 @@
+<h1 align="center"> Hi, I'm Jawwad - Undergrad Computer Scientist<br> <img align='right' src='https://programming-gifs.cyclic.app/' width=400 height=300 alt='samadpls/Programming-Gifs'></h1>
+
+></a>
+
 # 💫 About Me:
 - 💡 Quick learner and critical thinker.<br>- 🚀 Proven track record in web development.<br>- 🤝 Strong communicator and team player.<br>- ⏱ Efficient time management skills.
 
